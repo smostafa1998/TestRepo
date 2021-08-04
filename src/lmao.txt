@@ -1,1 +1,14 @@
 lmfaao hi
+Working directiory - local repository
+Improve code without changing baseline code
+1. Add to stage
+2. From stage commit, ready to be pushed
+Not adding it yet (red)
+Git add srs/sample.txt
+Git commit -m (add a comment) “Added sample.txt file”
+Red (file on local but not remote) -> white
+3. Push remote (cloud repository) git push pirigin master
+See error failed to push master is not the name
+Git push organ main
+Numerical numbers the unique ID for the commit
+Main branch from local-> main branch from remote
